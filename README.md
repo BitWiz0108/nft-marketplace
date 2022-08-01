@@ -57,8 +57,7 @@ I aim to create an open and safe nft marketplace for everyone. This will be a ch
 ## 🔮 Usage
 In the project directory, you can run:
 
-### `npm install (for first running)`
-### `npm start`
+
 
 
 ## 🗞️ Docs
@@ -69,7 +68,10 @@ If you want to contribute to this project, simply follow the steps in the contri
 [CONTRIBUTING.md](https://github.com/BitWiz0108/nft-marketplace/blob/main/CONTRIBUTING.md)
 
 
-## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+### `npm install (for first running)`
+### `npm start`
+
+### `Clone this project`
+      git clone https://github.com/BitWiz0108/nft-marketplace
 
